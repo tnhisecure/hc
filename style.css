@@ -149,7 +149,7 @@ ul li:nth-child(3n+3){
 }
 @keyframes dodge-area{
     to {
-        transform: translate(25%,25%);
+        transform: translate(50%,50%);
     }
     
 }
